@@ -53,6 +53,9 @@
 
 <!-- stackoverflow profile
 <a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
+
+
+
  
 **Languages and Frameworks**
 
@@ -62,7 +65,6 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 
 
-<code><img height="50" src="" alt="Unittest" title=""></code>
 
 
 
@@ -84,14 +86,8 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llaichiyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--END_SECTION:waka-->
 
 > By the way, are you also curious about somethings on project and can not contact me?
