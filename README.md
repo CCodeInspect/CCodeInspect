@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <a href= "" target="_blank" alt="WeChat" title="WeChat">
+  <a href= "https://github.com/llaichiyu/yushu/blob/main/app/contact.jpeg" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="40px"/>
   </a>
   &emsp;
@@ -52,15 +52,13 @@
 
 <h2></h2>
 
-<!-- stackoverflow profile
-<a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
-
 
 
  
 **Languages and Frameworks**
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+<code><img height="50" src="https://github.com/llaichiyu/yushu/blob/main/app/unittest.png" alt="unittest" title="python"></code>
 <code><img height="50" src="https://github.com/llaichiyu/explore/blob/main/topics/flask/flask.png" alt="flask" title="Python"></code>
 <code><img height="50" src="https://github.com/llaichiyu/explore/blob/main/topics/go/go.png" alt="Git" title="Go"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
