@@ -40,7 +40,7 @@
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="40px"/>
   </a>
   &emsp;
-  <a href="[[https://blog.csdn.net/](https://blog.csdn.net/qq_41883133?type=blog)](CSDN)" target="_blank" alt="CSDN" title="CSDN">
+  <a href="https://blog.csdn.net/qq_41883133?type=blog" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="40px"/>
   </a>
   
