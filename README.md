@@ -3,7 +3,7 @@
 
 <!--my introduction start-->
 
-> You can find how to contact me on the following paltform icon url and follow me to find something more interesting.
+> You can find how to contact me in the following paltform icon url and follow me to find something more interesting.
 
 - 🔭 I’m currently writing an amateur project by myself about web : [My Recent Repos](https://github.com/llaichiyu/yushu). 
 - ✨ And more interesting project can be found in [My GitHub Repos](https://github.com/llaichiyu?tab=repositories).
