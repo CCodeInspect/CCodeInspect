@@ -15,6 +15,7 @@
 </details>
   
  
+[![trophy](https://github-profile-trophy.vercel.app/?username=llaichiyu)](https://github.com/llaichiyu/github-profile-trophy)
 
 
 <!--my introduction end -->
