@@ -90,7 +90,7 @@
 
 <!--END_SECTION:waka-->
 
-> By the way, are you also curious about somethings on project and can not contact me?
+> By the way, are you also curious about somethings on project or could not contact me?
 > You can send email to **302869907@qq.com** and i will reply in the instance if i can get your infomations .
 
 If you like ~~Pauline or me~~ or my projects, you can buy me a cup of coffee ☕  or  a piece of cake 🍰 at [llaichiyu Sponsors](https://.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://llaichiyu.github.io/sponsor.html](https://llaichiyu.github.io/sponsor.html).
@@ -99,8 +99,8 @@ If you like ~~Pauline or me~~ or my projects, you can buy me a cup of coffee ☕
 <a href="https://llaichiyu.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <!--
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
+  <a href="">
+    <img src='/>
   </a>
 </p>
 <!--END_SECTION:sponsors-->
@@ -108,10 +108,6 @@ If you like ~~Pauline or me~~ or my projects, you can buy me a cup of coffee ☕
 ---
 
 🚧 **My TodoList Stats: ⬇️**
-
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=llaichiyu&repo=PaperWeeklyAI)](https://github.com/llaichiyu/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=llaichiyu&repo=Surface-Defect-Detection)](https://github.com/llaichiyu/Surface-Defect-Detection)
--->
 
 ![Snake animation](https://github.com/Joestar117/Joestar117/blob/output/github-contribution-grid-snake.svg)
 ![Visitor Count](https://profile-counter.glitch.me/{llaichiyu}/count.svg)
