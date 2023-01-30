@@ -6,8 +6,8 @@
 > You can find how to contact me on the following paltform icon url and follow me to find something more interesting.
 
 - 🔭 I’m currently writing an amateur project by myself about web : [My Recent Repos](https://github.com/llaichiyu/yushu). 
-- ✨ And more interesting project can be found in [My GitHub Repos](https://blog.csdn.net/qq_41883133?type=blog).
-- 🌱 This is my blog for taking notes about quantites of difficulties and solutions :[My CSDN Site](https://github.com/llaichiyu?tab=repositories). 
+- ✨ And more interesting project can be found in [My GitHub Repos](https://github.com/llaichiyu?tab=repositories).
+- 🌱 This is my blog for taking notes about quantites of difficulties and solutions :[My CSDN Site](https://blog.csdn.net/qq_41883133?type=blog). 
 - 🤔 I like to try all kinds of flavors of food, and different flavors of food will make people feel different.
 - 💬 Be free to ask me about anything [here](https://github.com/llaichiyu/llaichiyu/issues).
 
