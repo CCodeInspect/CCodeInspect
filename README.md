@@ -92,7 +92,7 @@
 <!--END_SECTION:waka-->
 
 > By the way, are you also curious about somethings on project or could not contact me?
-> You can send email to **302869907@qq.com** and i will reply in the instance if i can get your infomations .
+> You can send email to **302869907@qq.com** and i will reply in the instance if i can get your informations .
 
 If you like ~~Pauline or me~~ or my projects, you can buy me a cup of coffee ☕  or  a piece of cake 🍰 at [llaichiyu Sponsors](https://.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://llaichiyu.github.io/sponsor.html](https://llaichiyu.github.io/sponsor.html).
 
