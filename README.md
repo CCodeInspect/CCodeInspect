@@ -116,3 +116,5 @@ If you like ~~Pauline or me~~ or my projects, you can buy me a cup of coffee ☕
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=llaichiyu&repo=PaperWeeklyAI)](https://github.com/llaichiyu/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=llaichiyu&repo=Surface-Defect-Detection)](https://github.com/llaichiyu/Surface-Defect-Detection)
 -->
+
+![Snake animation](https://github.com/Joestar117/Joestar117/blob/output/github-contribution-grid-snake.svg)
