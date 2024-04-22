@@ -5,17 +5,17 @@
 
 > You can find how to contact me in the following paltform icon url and follow me to find something more interesting.
 
-- 🔭 I’m currently writing an amateur project by myself about web : [My Recent Repos](https://github.com/llaichiyu/yushu). 
-- ✨ And more interesting project can be found in [My GitHub Repos](https://github.com/llaichiyu?tab=repositories).
+- 🔭 I’m currently writing an amateur project by myself about web : [My Recent Repos](https://github.com/CCodeInspect/yushu). 
+- ✨ And more interesting project can be found in [My GitHub Repos](https://github.com/CCodeInspect?tab=repositories).
 - 🌱 This is my blog for taking notes about quantites of difficulties and solutions :[My CSDN Site](https://blog.csdn.net/qq_41883133?type=blog). 
 - 🤔 I like to try all kinds of flavors of food, and different flavors of food will make people feel different.
-- 💬 Be free to ask me about anything [here](https://github.com/llaichiyu/llaichiyu/issues).
+- 💬 Be free to ask me about anything [here](https://github.com/CCodeInspect/CCodeInspect/issues).
 
 ---
 </details>
   
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=llaichiyu)](https://github.com/llaichiyu/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CCodeInspect)](https://github.com/CCodeInspect/github-profile-trophy)
 
 
 <!--my introduction end -->
@@ -23,16 +23,16 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/llaichiyu" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=llaichiyu&title_color=333&text_color=777" alt="llaichiyu's Stats" >
+  <a href="https://github.com/CCodeInspect" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=CCodeInspect&title_color=333&text_color=777" alt="CCodeInspect's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=llaichiyu&hide=issues&title_color=333&text_color=777" alt="llaichiyu's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=CCodeInspect&hide=issues&title_color=333&text_color=777" alt="CCodeInspect's Stats" >
     -->
   </a>
 </p>
 
 <p align="center">
-  <a href= "https://github.com/llaichiyu/yushu/blob/main/app/contact.jpeg" target="_blank" alt="WeChat" title="WeChat">
+  <a href= "https://github.com/CCodeInspect/yushu/blob/main/app/contact.jpeg" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="40px"/>
   </a>
   &emsp;
@@ -56,9 +56,9 @@
 **Languages and Frameworks**
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="50" src="https://github.com/llaichiyu/yushu/blob/main/app/unittest.png" alt="unittest" title="python"></code>
-<code><img height="50" src="https://github.com/llaichiyu/explore/blob/main/topics/flask/flask.png" alt="flask" title="Python"></code>
-<code><img height="50" src="https://github.com/llaichiyu/explore/blob/main/topics/go/go.png" alt="Git" title="Go"></code>
+<code><img height="50" src="https://github.com/CCodeInspect/yushu/blob/main/app/unittest.png" alt="unittest" title="python"></code>
+<code><img height="50" src="https://github.com/CCodeInspect/explore/blob/main/topics/flask/flask.png" alt="flask" title="Python"></code>
+<code><img height="50" src="https://github.com/CCodeInspect/explore/blob/main/topics/go/go.png" alt="Git" title="Go"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 
 
@@ -75,7 +75,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-<code><img height="50" src="https://github.com/llaichiyu/explore/blob/main/topics/mysql/mysql.png" alt="Mysql" title=""></code>
+<code><img height="50" src="https://github.com/CCodeInspect/explore/blob/main/topics/mysql/mysql.png" alt="Mysql" title=""></code>
 
 
 
@@ -83,17 +83,17 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llaichiyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CCodeInspect&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
 > By the way, are you also curious about somethings on project or could not contact me?
 > You can send email to **302869907@qq.com** and i will reply in the instance if i can get your informations .
 
-If you like ~~Pauline or me~~ or my projects, you can buy me a cup of coffee ☕  or  a piece of cake 🍰 at [llaichiyu Sponsors](https://.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://llaichiyu.github.io/sponsor.html](https://llaichiyu.github.io/sponsor.html).
+If you like ~~Pauline or me~~ or my projects, you can buy me a cup of coffee ☕  or  a piece of cake 🍰 at [CCodeInspect Sponsors](https://.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://CCodeInspect.github.io/sponsor.html](https://CCodeInspect.github.io/sponsor.html).
 
 <!--START_SECTION:sponsors-->
-<a href="https://llaichiyu.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://CCodeInspect.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <!--
 <p align="center">
   <a href="">
@@ -108,5 +108,5 @@ If you like ~~Pauline or me~~ or my projects, you can buy me a cup of coffee ☕
 
 ![Snake animation](https://github.com/Joestar117/Joestar117/blob/output/github-contribution-grid-snake.svg)
 
-![Visitor Count](https://profile-counter.glitch.me/{llaichiyu}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{CCodeInspect}/count.svg)
 
