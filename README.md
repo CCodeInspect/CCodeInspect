@@ -108,5 +108,5 @@ If you like ~~Pauline or me~~ or my projects, you can buy me a cup of coffee ☕
 
 ![Snake animation](https://github.com/Joestar117/Joestar117/blob/output/github-contribution-grid-snake.svg)
 
-![Visitor Count](https://profile-counter.glitch.me/{CCodeInspect}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{llaichiyu}/count.svg)
 
